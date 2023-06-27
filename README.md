@@ -1,3 +1,4 @@
+![screenshot](https://github.com/tanmay-shrimali/image-metadata-viewer/assets/119653072/0a36cdb2-584a-409c-b130-2998e3ec2a0e)
 # Web-Based Image Metadata Viewer
 
 This is a web-based image metadata viewer tool that allows users to upload an image and view its associated metadata. The tool is particularly useful in the field of digital forensics, where analyzing image metadata can provide valuable information for investigations.
